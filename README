@@ -1,0 +1,13 @@
+This is the source for my Utilities.dll which is used in all of my C# projects.  It contains anything that I've used in more than one project -- an alternative to copying and pasting code between projects.
+
+Its contents are varied.  It has been written over a period of three years -- since I started using C#, and as such some parts have code that I would not write today, and much of it is undocumented.  C'est la vie.
+
+The most useful parts are probably the DelimReader, GCSV, and VariableBin portions -- these are used in almost *all* C# projects I've written, which is a lot.
+
+I have two purposes in making it open source.  First, it makes it easier for me to access the code and find pieces of it for me or someone else to use when the occasion arises.  Second, it will encourage me that much more to write readable code henceforth, knowing that someone might find this and laugh.
+
+I am releasing it under a copy of the MIT License with the license propagation clause removed, so if you use any code from here in your own work, you can distribute your source and binaries with or without copying the license.  I could have just used the WTFPL but think of the children!
+
+Philip McGarvey
+www.philipmcg.com
+
